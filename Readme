@@ -1,0 +1,22 @@
+To Increase the font size:
+
+Go to settings.json and add the below statement.
+{
+	"editor.fontSize": 10,
+	"window.zoomLevel": 1.5
+}
+
+Useful Extensions:
+1. Angular Files
+2. Angular Languages Services
+3. Auto Rename Tag
+4. Bracket Pair Colorize.
+5. Debugger for chrome.
+6. Material Icon Theme.
+7. NuGet Package Manager
+8. Prettier - Code Formater.
+9. Project Manager.
+10. Python
+11. RestClient.
+12. TSLint
+
